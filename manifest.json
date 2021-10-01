@@ -1,0 +1,9 @@
+{
+  "version": 0,
+  "tools": {
+    "temperature": {
+      "label": "Temperature",
+      "path": "temperature.html"
+    }
+  }
+}
